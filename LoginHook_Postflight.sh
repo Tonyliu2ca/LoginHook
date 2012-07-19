@@ -2,7 +2,7 @@
 #* LoginHook
 #+ Payload required /Contents/Resources/LoginHook
 #+ chris.gerke@gmail.com
-#+ Some inspiration from these guys; Per Olofsson, Pete Akins, Karl Kuehn, Greg Neagle and Kyle Crawford.
+#+ Some inspiration from these guys; Per Olofsson, Pete Akins, Karl Kuehn, Greg Neagle, Rich Trouton and Kyle Crawford.
 #+
 #+ Description: Setup a LoginHook that will loop a directory containing payloads.
 #+
